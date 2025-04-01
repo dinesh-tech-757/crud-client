@@ -9,7 +9,7 @@ const App = () => {
     <BrowserRouter>
       <ToastContainer />
       <Routes>
-        <Route path="/" element={<User />} />
+        <Route path="/client" element={<User />} />
         <Route path="/create" element={<CreateUser />} />
         <Route path="/update/:id" element={<UpdateUser />} />
       </Routes>
