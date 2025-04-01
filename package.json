@@ -1,6 +1,6 @@
 {
-  "homepage": "https://github.com/dinesh-tech-757/crud-client",
-  "name": "crud-client",
+  "homepage": "https://github.com/dinesh-tech-757/client",
+  "name": "client",
   "private": true,
   "version": "0.0.0",
   "type": "module",
